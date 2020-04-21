@@ -1,0 +1,23 @@
+{
+  "name": "chat-application.node",
+  "version": "1.0.0",
+  "description": "Simple chat application using sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adambear1/Chat-Application.node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adambear1/Chat-Application.node/issues"
+  },
+  "homepage": "https://github.com/Adambear1/Chat-Application.node#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "socket.io": "^2.3.0"
+  }
+}
